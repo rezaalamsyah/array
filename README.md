@@ -10,3 +10,7 @@
 ![alt text](https://github.com/rezaalamsyah/array/blob/master/Screenshot%20(13).png)
 (6)
 ![alt text](https://github.com/rezaalamsyah/array/blob/master/Screenshot%20(14).png)
+(7) error karena bilangan nya ada 5 tetapi di sana diminta print bil 6
+![alt text](https://github.com/rezaalamsyah/array/blob/master/Screenshot%20(15).png)
+(8) error karena batasan bilangannya 5 tetapi bilangan nya ada 7 
+![alt text](https://github.com/rezaalamsyah/array/blob/master/Screenshot%20(16).png)
